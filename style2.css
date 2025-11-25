@@ -1,0 +1,35 @@
+/*-------ytmtpt START------*/
+
+body{
+    padding:0;
+    margin:0;
+    background-color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+img{
+    padding: 20px;
+    max-width: 100%;
+    height:auto;
+    transition:0.2s ease;
+}
+
+img:hover{
+    transform: scale(1.05);
+}
+
+h1{
+    font-family: 'Montserrat',sans-serif;
+}
+
+h5{
+    font-family: 'Roboto',sans-serif;
+    color:#b5651d;
+}
+
+p{
+    font-size: 20px ;
+}
+
+/*-------ytmtpt END------*/
